@@ -2,124 +2,124 @@
 <testng-results retried="2" ignored="1" total="9" passed="5" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-11T11:54:49 IST" name="Loginpage" finished-at="2025-05-11T11:55:54 IST" duration-ms="64887">
+  <suite started-at="2025-05-11T23:51:42 IST" name="Loginpage" finished-at="2025-05-11T23:52:44 IST" duration-ms="62072">
     <groups>
     </groups>
-    <test started-at="2025-05-11T11:54:49 IST" name="Test" finished-at="2025-05-11T11:55:54 IST" duration-ms="64887">
+    <test started-at="2025-05-11T23:51:42 IST" name="Test" finished-at="2025-05-11T23:52:44 IST" duration-ms="62072">
       <class name="testCases.LoginPageValidatation">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:54:49 IST" name="setup" finished-at="2025-05-11T11:54:57 IST" duration-ms="7747" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:51:43 IST" name="setup" finished-at="2025-05-11T23:51:51 IST" duration-ms="8145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:54:57 IST" name="getDriver" finished-at="2025-05-11T11:54:57 IST" depends-on-methods="base.BaseTest.setup" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:51:51 IST" name="getDriver" finished-at="2025-05-11T23:51:51 IST" depends-on-methods="base.BaseTest.setup" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:54:57 IST" name="loginpageSetup" finished-at="2025-05-11T11:54:57 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:51:51 IST" name="loginpageSetup" finished-at="2025-05-11T23:51:51 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpageSetup -->
-        <test-method signature="validate_email_address()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:54:57 IST" name="validate_email_address" finished-at="2025-05-11T11:54:57 IST" duration-ms="129" status="PASS">
+        <test-method signature="validate_email_address()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:51:51 IST" name="validate_email_address" finished-at="2025-05-11T23:51:51 IST" duration-ms="200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_email_address -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:54:58 IST" name="teardown" finished-at="2025-05-11T11:54:59 IST" duration-ms="518" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:51:52 IST" name="teardown" finished-at="2025-05-11T23:51:53 IST" duration-ms="546" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:54:59 IST" name="setup" finished-at="2025-05-11T11:55:06 IST" duration-ms="6756" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:51:53 IST" name="setup" finished-at="2025-05-11T23:52:00 IST" duration-ms="7091" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:06 IST" name="getDriver" finished-at="2025-05-11T11:55:06 IST" depends-on-methods="base.BaseTest.setup" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:00 IST" name="getDriver" finished-at="2025-05-11T23:52:00 IST" depends-on-methods="base.BaseTest.setup" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method signature="validate_forgot_password_link()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:06 IST" name="validate_forgot_password_link" finished-at="2025-05-11T11:55:06 IST" duration-ms="105" status="PASS">
+        <test-method signature="validate_forgot_password_link()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:00 IST" name="validate_forgot_password_link" finished-at="2025-05-11T23:52:00 IST" duration-ms="76" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_forgot_password_link -->
-        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:06 IST" name="loginpageSetup" finished-at="2025-05-11T11:55:06 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:00 IST" name="loginpageSetup" finished-at="2025-05-11T23:52:00 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpageSetup -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:07 IST" name="teardown" finished-at="2025-05-11T11:55:08 IST" duration-ms="1697" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:01 IST" name="teardown" finished-at="2025-05-11T23:52:01 IST" duration-ms="257" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:08 IST" name="setup" finished-at="2025-05-11T11:55:16 IST" duration-ms="7818" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:01 IST" name="setup" finished-at="2025-05-11T23:52:08 IST" duration-ms="6711" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:16 IST" name="getDriver" finished-at="2025-05-11T11:55:16 IST" depends-on-methods="base.BaseTest.setup" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:08 IST" name="getDriver" finished-at="2025-05-11T23:52:08 IST" depends-on-methods="base.BaseTest.setup" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:16 IST" name="loginpageSetup" finished-at="2025-05-11T11:55:16 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:08 IST" name="loginpageSetup" finished-at="2025-05-11T23:52:08 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpageSetup -->
-        <test-method signature="validate_login_text()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:16 IST" name="validate_login_text" finished-at="2025-05-11T11:55:16 IST" duration-ms="92" status="PASS">
+        <test-method signature="validate_login_text()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:08 IST" name="validate_login_text" finished-at="2025-05-11T23:52:08 IST" duration-ms="92" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_login_text -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:17 IST" name="teardown" finished-at="2025-05-11T11:55:17 IST" duration-ms="342" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:09 IST" name="teardown" finished-at="2025-05-11T23:52:09 IST" duration-ms="253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:17 IST" name="setup" finished-at="2025-05-11T11:55:23 IST" duration-ms="5975" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:09 IST" name="setup" finished-at="2025-05-11T23:52:15 IST" duration-ms="6180" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:23 IST" name="getDriver" finished-at="2025-05-11T11:55:23 IST" depends-on-methods="base.BaseTest.setup" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:15 IST" name="getDriver" finished-at="2025-05-11T23:52:15 IST" depends-on-methods="base.BaseTest.setup" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:23 IST" name="loginpageSetup" finished-at="2025-05-11T11:55:23 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:15 IST" name="loginpageSetup" finished-at="2025-05-11T23:52:15 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpageSetup -->
-        <test-method signature="validate_register_button()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:23 IST" name="validate_register_button" finished-at="2025-05-11T11:55:24 IST" duration-ms="80" status="PASS">
+        <test-method signature="validate_register_button()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:15 IST" name="validate_register_button" finished-at="2025-05-11T23:52:15 IST" duration-ms="100" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_register_button -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:24 IST" name="teardown" finished-at="2025-05-11T11:55:25 IST" duration-ms="381" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:16 IST" name="teardown" finished-at="2025-05-11T23:52:16 IST" duration-ms="473" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:25 IST" name="setup" finished-at="2025-05-11T11:55:31 IST" duration-ms="6195" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:16 IST" name="setup" finished-at="2025-05-11T23:52:23 IST" duration-ms="6331" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:31 IST" name="getDriver" finished-at="2025-05-11T11:55:31 IST" depends-on-methods="base.BaseTest.setup" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:23 IST" name="getDriver" finished-at="2025-05-11T23:52:23 IST" depends-on-methods="base.BaseTest.setup" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:31 IST" name="loginpageSetup" finished-at="2025-05-11T11:55:31 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:23 IST" name="loginpageSetup" finished-at="2025-05-11T23:52:23 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpageSetup -->
-        <test-method signature="validate_register_link()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:31 IST" name="validate_register_link" finished-at="2025-05-11T11:55:31 IST" duration-ms="112" status="PASS">
+        <test-method signature="validate_register_link()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:23 IST" name="validate_register_link" finished-at="2025-05-11T23:52:23 IST" duration-ms="129" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_register_link -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:32 IST" name="teardown" finished-at="2025-05-11T11:55:32 IST" duration-ms="230" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:24 IST" name="teardown" finished-at="2025-05-11T23:52:24 IST" duration-ms="246" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:32 IST" name="setup" finished-at="2025-05-11T11:55:38 IST" duration-ms="6240" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:24 IST" name="setup" finished-at="2025-05-11T23:52:30 IST" duration-ms="6149" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:38 IST" name="getDriver" finished-at="2025-05-11T11:55:38 IST" depends-on-methods="base.BaseTest.setup" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:30 IST" name="getDriver" finished-at="2025-05-11T23:52:30 IST" depends-on-methods="base.BaseTest.setup" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:38 IST" name="loginpageSetup" finished-at="2025-05-11T11:55:38 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:30 IST" name="loginpageSetup" finished-at="2025-05-11T23:52:30 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpageSetup -->
-        <test-method retried="true" signature="validate_title()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:38 IST" name="validate_title" finished-at="2025-05-11T11:55:38 IST" duration-ms="51" status="SKIP">
+        <test-method retried="true" signature="validate_title()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:30 IST" name="validate_title" finished-at="2025-05-11T23:52:30 IST" duration-ms="86" status="SKIP">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Let's Sh] but found [Let's Shop]]]>
@@ -165,23 +165,19 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_title -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:38 IST" name="teardown" finished-at="2025-05-11T11:55:39 IST" duration-ms="230" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:30 IST" name="teardown" finished-at="2025-05-11T23:52:30 IST" duration-ms="280" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:39 IST" name="setup" finished-at="2025-05-11T11:55:45 IST" duration-ms="6488" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:30 IST" name="setup" finished-at="2025-05-11T23:52:37 IST" duration-ms="6606" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:45 IST" name="getDriver" finished-at="2025-05-11T11:55:45 IST" depends-on-methods="base.BaseTest.setup" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:37 IST" name="getDriver" finished-at="2025-05-11T23:52:37 IST" depends-on-methods="base.BaseTest.setup" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDriver -->
-        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:45 IST" name="loginpageSetup" finished-at="2025-05-11T11:55:45 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginpageSetup -->
-        <test-method retried="true" signature="validate_title()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:45 IST" name="validate_title" finished-at="2025-05-11T11:55:45 IST" duration-ms="42" status="SKIP">
+        <test-method retried="true" signature="validate_title()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:37 IST" name="validate_title" finished-at="2025-05-11T23:52:37 IST" duration-ms="33" status="SKIP">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Let's Sh] but found [Let's Shop]]]>
@@ -227,23 +223,27 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_title -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:45 IST" name="teardown" finished-at="2025-05-11T11:55:45 IST" duration-ms="275" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:45 IST" name="setup" finished-at="2025-05-11T11:55:52 IST" duration-ms="7063" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:52 IST" name="getDriver" finished-at="2025-05-11T11:55:52 IST" depends-on-methods="base.BaseTest.setup" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getDriver -->
-        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:52 IST" name="loginpageSetup" finished-at="2025-05-11T11:55:52 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:37 IST" name="loginpageSetup" finished-at="2025-05-11T23:52:37 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginpageSetup -->
-        <test-method signature="validate_title()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:52 IST" name="validate_title" finished-at="2025-05-11T11:55:53 IST" duration-ms="31" status="FAIL">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:37 IST" name="teardown" finished-at="2025-05-11T23:52:37 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:37 IST" name="setup" finished-at="2025-05-11T23:52:44 IST" duration-ms="6285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="loginpageSetup()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:44 IST" name="loginpageSetup" finished-at="2025-05-11T23:52:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageSetup -->
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:44 IST" name="getDriver" finished-at="2025-05-11T23:52:44 IST" depends-on-methods="base.BaseTest.setup" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="validate_title()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:44 IST" name="validate_title" finished-at="2025-05-11T23:52:44 IST" duration-ms="24" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Let's Sh] but found [Let's Shop]]]>
@@ -289,7 +289,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate_title -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T11:55:53 IST" name="teardown" finished-at="2025-05-11T11:55:54 IST" duration-ms="274" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.LoginPageValidatation@6c6cb480]" started-at="2025-05-11T23:52:44 IST" name="teardown" finished-at="2025-05-11T23:52:44 IST" duration-ms="265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
